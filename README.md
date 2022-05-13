@@ -4,7 +4,7 @@ The AM/PM time system has a problem, without the postfix (AM/PM) one never knows
 
 
 ## License
-Copyright (C) 2021-2022  Steve Joni Yrjänä <joniyrjana@gmail.com>
+Copyright (C) 2022  Steve Joni Yrjänä <joniyrjana@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
